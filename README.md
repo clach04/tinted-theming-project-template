@@ -18,9 +18,6 @@ This theme is maintained by the following person(s) and a bunch of [awesome cont
 
 ## Community
 
-
-## Project Chat
-
   * [Tinted Theming Home](https://github.com/tinted-theming/home)
   * Have something you want to discuss, but you're not sure it warrants an issue? Feel free to stop by
     [#tinted-theming:matrix.org](https://matrix.to/#/#tinted-theming:matrix.org) on [Matrix](https://matrix.org/).
